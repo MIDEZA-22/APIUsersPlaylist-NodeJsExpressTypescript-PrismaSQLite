@@ -1,9 +1,8 @@
 # PROYECTO APIUserPlaylist
-
-
+  
 ## Herramientas
 
-* NodeJs y Expres
+* NodeJs y Express
 * Librería Prisma
 * Typescript
 * SQLite
